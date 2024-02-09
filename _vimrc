@@ -3,7 +3,7 @@ set background=dark
 set termguicolors
 set cursorline
 set autoindent
-set hlsearcha
+set hlsearch
 set ignorecase
 set incsearch
 set smartcase
